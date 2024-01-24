@@ -1,0 +1,1 @@
+mkdir photo_bloomingdales
