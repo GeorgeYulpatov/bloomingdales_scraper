@@ -1,0 +1,2 @@
+# bloomingdales_scraper
+bloomingdales_scraper
