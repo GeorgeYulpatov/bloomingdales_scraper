@@ -21,7 +21,7 @@
 pip install -r requirements.txt
 ```
 Также есть команды для создания директории:    
-(make_dir.cmd)
+(make_dir.cmd)    
 Обьединение всех промежуточных файлов в общий фаил формата .csv:     
 (to_all.cmd)
 
